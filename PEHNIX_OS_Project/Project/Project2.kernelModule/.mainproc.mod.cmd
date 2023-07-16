@@ -1,0 +1,1 @@
+cmd_/home/blackalka/Desktop/OS/Projects/Project2.k/Project2_procKM/mainproc.mod := { echo  /home/blackalka/Desktop/OS/Projects/Project2.k/Project2_procKM/mainproc.o; echo; } > /home/blackalka/Desktop/OS/Projects/Project2.k/Project2_procKM/mainproc.mod

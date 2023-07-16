@@ -1,0 +1,15 @@
+**************Run*******************alkaloid********
+
+gcc -g -Wall shell.c -o shell -lreadline
+./shell
+*****************************************
+
+please to run this shell make sure you have the lreadlin librar installed 
+on you ubuntu or unix
+the program is diveded into the module and the shell
+just the commands above to run 
+if you do not undersand how to use the shell just type help 
+it is a basic shell with core functionalites
+
+
+**********************shell**********
